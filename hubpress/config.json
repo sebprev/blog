@@ -9,9 +9,10 @@
   },
   "socialnetwork": {
     "email": "webmuret@gmail.com",
-    "linkedin": "https://fr.linkedin.com/in/sebastienprevost"
+    "linkedin": "https://fr.linkedin.com/in/sebastienprevost",
+    "github": "sebprev"
   },
   "theme": {
-    "name": "ichi"
+    "name": "uno"
   }
 }
