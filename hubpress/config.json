@@ -4,6 +4,13 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Blog @sebprev"
+  },
+  "socialnetwork": {
+    "email": "webmuret@gmail.com",
+    "linkedin": "https://fr.linkedin.com/in/sebastienprevost"
+  },
   "theme": {
     "name": "ichi"
   }
